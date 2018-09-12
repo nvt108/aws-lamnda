@@ -1,0 +1,6 @@
+{
+  "host" :      "rds-enpoint",
+  "user" :      "username",
+  "password" :  "password",
+  "database" :  "dbname"
+}

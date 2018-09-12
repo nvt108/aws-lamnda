@@ -1,0 +1,29 @@
+{
+  "name": "aws-lambda",
+  "version": "1.0.0",
+  "description": "aws-lambda connect to aws rds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvt108/aws-lamnda.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda-function",
+    "serverless",
+    "rds",
+    "sam-local"
+  ],
+  "author": "TrungNV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvt108/aws-lamnda/issues"
+  },
+  "homepage": "https://github.com/nvt108/aws-lamnda#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
